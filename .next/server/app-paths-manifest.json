@@ -1,0 +1,13 @@
+{
+  "/analysis-report/page": "app/analysis-report/page.js",
+  "/control-panel/page": "app/control-panel/page.js",
+  "/fourp-teching/entry/page": "app/fourp-teching/entry/page.js",
+  "/fourp/return/page": "app/fourp/return/page.js",
+  "/laser/analysis/page": "app/laser/analysis/page.js",
+  "/laser/entry/page": "app/laser/entry/page.js",
+  "/page": "app/page.js",
+  "/reassignment/page": "app/reassignment/page.js",
+  "/sarin/analysis/page": "app/sarin/analysis/page.js",
+  "/sarin/entry/page": "app/sarin/entry/page.js",
+  "/sarin/return/page": "app/sarin/return/page.js"
+}
